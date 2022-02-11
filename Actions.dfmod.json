@@ -1,0 +1,11 @@
+{
+    "ModTitle": "Actions",
+    "ModVersion": "0.3",
+    "ModAuthor": "John Doom",
+    "DFUnity_Version": "0.13.4",
+    "ModDescription": "Adds new quest actions.",
+    "GUID": "583f68c9-f250-48f6-a2b0-2bddfcf76643",
+    "Files": [
+        "Assets/Game/Mods/Actions/Actions.cs"
+    ]
+}
